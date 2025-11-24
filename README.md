@@ -41,3 +41,6 @@ npx prettier . --write
 - eslint
 - eslint-config-prettier
 - prettier
+- tailwind
+- postcss
+- postcss-loader
