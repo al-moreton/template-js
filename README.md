@@ -5,7 +5,6 @@
 Run
 
 ```
-npm init
 npm install
 npx webpack serve
 ```
